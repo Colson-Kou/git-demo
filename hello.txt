@@ -13,4 +13,4 @@ hello xiang! hello git!
 hello xiang! hello git!
 hello xiang! hello git!
 hello xiang! hello git! master test!
-hello xiang! hello git!
+hello xiang! hello git! hot-fix text
